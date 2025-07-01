@@ -2,6 +2,34 @@
   "version": 2.0,
   "questions": [
     {
+      "question": "What is the primary purpose of creating a storyboard in the pre-production phase?",
+      "answers": {
+        "a": "To model the bottle in 3D",
+        "b": "To outline scenes, transitions, and key moments",
+        "c": "To render the final animation",
+        "d": "To set up lighting and camera angles"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Which Gravity Sketch tool is used to create the main body of the water bottle?",
+      "answers": {
+        "a": "Surface Tool",
+        "b": "Stroke Tool",
+        "c": "Revolve Tool",
+        "d": "Material Editor"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "What type of file is typically imported for branding textures?",
+      "answers": {
+        "a": ".PDF",
+        "b": ".JPG",
+        "c": ".PNG",
+        "d": ".SVG"
+      },
+      "correctAnswer": "c"
     }
   ]
 }
