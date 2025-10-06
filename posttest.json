@@ -1,0 +1,35 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What lighting setup helps create a rim effect and separates the object from the background?",
+      "answers": {
+        "a": "Fill Light",
+        "b": "Back Light",
+        "c": "Key Light",
+        "d": "Ambient Light"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "What feature in Gravity Sketch allows you to check the look of your scene before final rendering?",
+      "answers": {
+        "a": "Camera Tool",
+        "b": "Preview Render",
+        "c": "Material Editor",
+        "d": "Scene Optimizer"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Which of the following is NOT part of the post-production process?",
+      "answers": {
+        "a": "Adding text overlays",
+        "b": "Color grading",
+        "c": "3D modeling",
+        "d": "Motion graphics"
+      },
+      "correctAnswer": "c"
+    }
+  ]
+}
